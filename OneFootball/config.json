@@ -1,0 +1,15 @@
+{
+    "TeamApi": "https://api-origin.onefootball.com/score-one-proxy/api/teams/en/%d.json",
+    "Teams": [
+        "Germany",
+        "England",
+        "France",
+        "Spain",
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Barcelona",
+        "Real Madrid",
+        "Bayern Munich"
+    ]
+}
